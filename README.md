@@ -74,6 +74,6 @@ Dashboard displays score, tips, and full resume history
 
 | Upload CV                         | AI Review                            |
 |-----------------------------------|--------------------------------------|
-| ![Home](public/images/Upload.png) | ![Scan](public/images/AI Review.png) |
+| ![Home](public/images/Upload.png) | ![Scan](public/images/AIReview.png) |
 
 
