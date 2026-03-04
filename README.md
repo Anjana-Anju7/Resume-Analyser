@@ -70,10 +70,3 @@ Dashboard displays score, tips, and full resume history
 
 ---
 
-## Screenshots
-
-| Upload CV                         | AI Review                            |
-|-----------------------------------|--------------------------------------|
-| ![Home](public/images/Upload.png) | ![Scan](public/images/AIReview.png) |
-
-
